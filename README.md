@@ -25,7 +25,7 @@ Now the NGINX in the OSGS stack needs to be wired into the docker network of
 GeoNetwork
 
 ```bash
-docker network connect 423_gn-network osgs-geonetwork-wiring_nginx_1
+docker network connect 423_gn-network osgisstack_nginx_1
 ```
 
 ## Connect NGINX
