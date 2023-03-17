@@ -13,8 +13,11 @@ See the Makefile and kartoza/osgs documentation
 
 ## Start GeoNetwork
 
-See the Saint Lucia geonetwork/docker-geonetwork/4.2.3
-docker-compose-stlucia.yaml file
+See the Saint Lucia geonetwork/docker-geonetwork/4.2.3/docker-compose-stlucia.yaml file
+
+```bash
+docker-compose -f docker-compose-stlucia.yml up -d
+```
 
 ## Connect network
 
