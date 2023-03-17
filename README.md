@@ -1,0 +1,1 @@
+# osgs-geonetwork-wiring
