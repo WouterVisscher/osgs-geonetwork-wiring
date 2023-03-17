@@ -38,5 +38,5 @@ be done by copying (or creating):
 * restart the OSGS NGINX
 
 ```bash
-docker restart osgs-geonetwork-wiring_nginx_1
+docker restart osgisstack_nginx_1
 ```
